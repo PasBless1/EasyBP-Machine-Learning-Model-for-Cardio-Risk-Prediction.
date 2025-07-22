@@ -11,6 +11,9 @@ Selected Random Forest as the final model, achieving an accuracy of 89.7% with m
 Conducted extensive cross-validation and hyperparameter optimization to maximize model generalizability and clinical reliability.
 Integrated explainable AI components (feature importance, SHAP/LIME explanations) for model transparency.
 
+<img width="1775" height="1357" alt="image" src="https://github.com/user-attachments/assets/f58b8f97-c211-4891-be3a-b445ed94f057" />
+
+
 **API & App Integration:**
 Led API development to seamlessly connect the trained model with the EasyBp app, ensuring that user data is processed and risk scores are delivered instantly and securely.
 Designed user-friendly interfaces for inputting health metrics and receiving actionable feedback.
