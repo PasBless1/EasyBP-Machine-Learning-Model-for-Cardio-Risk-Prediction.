@@ -16,6 +16,7 @@ Led API development to seamlessly connect the trained model with the EasyBp app,
 Designed user-friendly interfaces for inputting health metrics and receiving actionable feedback.
 
 **Technical Highlights**
+
 **Advanced data preprocessing:** 
 Handling missing values, outliers, and class imbalance for robust model input.
 Multi-algorithm model benchmarking and interpretability.
