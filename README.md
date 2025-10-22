@@ -30,6 +30,9 @@ Standardized numerical features to ensure comparability and robust modeling.
 
 Retained and engineered features based on clinical relevance and predictive utility.
 
+<img width="2227" height="1497" alt="image" src="https://github.com/user-attachments/assets/929aceaf-7cd5-410e-a439-387d7fadb13d" />
+
+
 **Machine Learning Development:**
 
 Designed a complete data pipeline, including advanced cleaning (imputation, outlier treatment with Winsorizing, and class balancing via SMOTE/undersampling), feature engineering, and multi-step scaling/transformation.
@@ -72,6 +75,9 @@ Precision: 89.25%
 
 F1-score: 90.00%
 
+<img width="1175" height="895" alt="image" src="https://github.com/user-attachments/assets/cae17628-d6e2-4fa1-8148-b75cffea1694" />
+
+
 Only 21 false negatives out of 1,170 positive cases
 These results exceed clinical standards and minimize missed diagnoses in real-world scenarios.
 
@@ -84,6 +90,12 @@ API Integration: Developed a scalable RESTful API with FastAPI for real-time pre
 Voice-Based Input: Integrated speech-to-text for seamless, accessible health data entry.
 
 Mobile Feedback: Real-time risk estimates and personalized interventions delivered to users via app notifications and recommendations.
+
+<img width="694" height="406" alt="image" src="https://github.com/user-attachments/assets/0aaaadf0-c153-48e6-ae72-c139968aff56" />
+
+<img width="740" height="402" alt="image" src="https://github.com/user-attachments/assets/7176bc1b-6d93-4702-8fb3-1fe8902ffc33" />
+
+
 
 **Discussion**
 
