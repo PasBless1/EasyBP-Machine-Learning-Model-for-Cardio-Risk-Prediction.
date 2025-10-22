@@ -32,6 +32,10 @@ Retained and engineered features based on clinical relevance and predictive util
 
 <img width="2227" height="1497" alt="image" src="https://github.com/user-attachments/assets/929aceaf-7cd5-410e-a439-387d7fadb13d" />
 
+<img width="940" height="630" alt="image" src="https://github.com/user-attachments/assets/2fb4d13a-c6f0-4ec4-a83b-670c0e7fdea4" />
+
+
+<img width="940" height="604" alt="image" src="https://github.com/user-attachments/assets/7894b3e9-8875-4b5d-b3ad-10de16eb6c55" />
 
 **Machine Learning Development:**
 
@@ -45,7 +49,6 @@ Conducted extensive cross-validation and hyperparameter optimization to maximize
 
 Integrated explainable AI components (feature importance, SHAP/LIME explanations) for model transparency.
 
-<img width="1775" height="1357" alt="image" src="https://github.com/user-attachments/assets/f58b8f97-c211-4891-be3a-b445ed94f057" />
 
 **Model Selection**
 
@@ -76,6 +79,7 @@ Precision: 89.25%
 F1-score: 90.00%
 
 <img width="1175" height="895" alt="image" src="https://github.com/user-attachments/assets/cae17628-d6e2-4fa1-8148-b75cffea1694" />
+
 
 
 Only 21 false negatives out of 1,170 positive cases
